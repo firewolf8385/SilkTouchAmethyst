@@ -1,0 +1,7 @@
+name: SilkTouchAmethyst
+version: '${project.version}'
+main: com.github.firewolf8385.silktouchamethyst.SilkTouchAmethystPlugin
+api-version: '1.18'
+authors: [ firewolf8385 ]
+website: https://modrinth.com/user/firewolf8385
+folia-supported: true
